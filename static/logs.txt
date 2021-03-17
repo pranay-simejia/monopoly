@@ -1,0 +1,12 @@
+[13:28:48] Bank sent $1500 to gt5g
+[13:28:48] Bank new balance: $19080
+[13:28:48] gt5g new balance: $1500
+[13:28:52] gt5g moved player gt5g
+[13:28:53] gt5g moved player gt5g
+[13:28:54] gt5g moved player gt5g
+[13:28:54] gt5g moved player gt5g
+[13:28:54] gt5g moved player gt5g
+[13:28:56] gt5g moved player gt5g
+[13:28:57] gt5g moved player gt5g
+[13:28:59] gt5g rolled the dice !
+[13:29:2] gt5g rolled 3 and 2!
